@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muskokaelectrician.ca/sitemap-index.xml
